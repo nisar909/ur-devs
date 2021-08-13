@@ -67,9 +67,25 @@ h1{
     text-align: center;
   }
 .profile-pic{
-	width:120;
+	width:150px;
 	margin: 0;
-	text-align: center;
+}
+}
+
+@media(min-width: 380px){
+h1{
+    font-size: 3rem;
+  }
+  .header-title{
+    text-align: center;
+    width: 70%;
+  }
+  .three-icons{
+    text-align: center;
+  }
+.profile-pic{
+	width:120px;
+	margin: 0;
 }
 }
 
