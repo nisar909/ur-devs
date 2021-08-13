@@ -46,7 +46,8 @@ h1{
 }
 .salogen{
   background-color: #D6EB1E;
-  padding:10px;
+  padding:18px 10px;
+  margin-bottom: 0;
 }
 
 
@@ -65,7 +66,7 @@ h1{
   
   width: 150px;
   transition: 1.5s;
-  margin: 25% 35% 12%;
+  margin: 25% 31% -15%;
 }
 
 .profile-pic:hover{
