@@ -68,6 +68,8 @@ h1{
   }
 .profile-pic{
 	width:120;
+	margin: 0;
+	text-align: center;
 }
 
 
